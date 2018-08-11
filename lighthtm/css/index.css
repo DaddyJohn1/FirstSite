@@ -1,0 +1,71 @@
+body{
+	background-color: #F4F4F4;
+	margin: 0;
+}
+.mybody{
+	margin:0 auto;
+	width: 900px;
+	background-color: #FFF; 
+	box-shadow: 0px 9px 15px 5px;;
+	padding-bottom: 0px !important;
+}
+
+.welcome{
+	background-color: #78909C;
+	padding: 45px;
+	width: auto;
+	margin:0;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+.motto{
+	margin-top: -45px;
+	margin-left: 120px;
+	color: white;
+	font-family: Comic Sans MS;
+}
+.question{
+	margin-left: 50px;
+	padding: 20px;
+	line-height: 2em;
+	font-size: 20px;
+}
+.instruction{
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.next{
+	margin-left: 15%;
+	background-color: #CFD8DC;
+	padding: 15px;
+}
+.submit{
+	margin-left: 5%;
+	background-color: #CFD8DC;
+	padding: 15px;
+	margin-top: 0px;
+	position: absolute;
+}
+h3 span{
+	color: red;
+}
+footer{
+	padding: 10px 0 10px 25px;
+	margin-top: 130px;
+	background-color: #263238;
+	color: white;
+}
+footer a{
+	color: white;
+}
+footer a:hover{
+	font-weight: bolder;
+	font-family: cambria;
+}
+.thanks{
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 80px;
+	font-family: garamond; 
+}
